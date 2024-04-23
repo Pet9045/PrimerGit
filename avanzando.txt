@@ -1,0 +1,3 @@
+Avances realizados:
+- Optimización de rendimiento en las consultas de base de datos.
+- Corrección de errores menores en el sistema de login.
